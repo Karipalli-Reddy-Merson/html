@@ -1,0 +1,10 @@
+
+.custom-btn {
+    padding: 15px 30px;
+    font-size: 14px; 
+    width: 250px; 
+    height: 40px;
+}
+.p:hover {
+    color: rgb(8, 82, 6);
+}
